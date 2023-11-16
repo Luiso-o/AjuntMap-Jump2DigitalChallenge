@@ -68,7 +68,7 @@ Este proyecto aborda la problemática del comercio local mediante un enfoque est
 
 - **Pau Sansa Verdu**
 - **Luis Trujillo**
-- **Pedro Tejero**
+- **Pedro Tejero Diaz**
 
 ### FrontEnd
 
