@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PauSansa/jump2digital-grup2">
-    <img src="media/Ajuntmap.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn-icons-png.flaticon.com/512/1865/1865269.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">AjuntMAP</h3>
