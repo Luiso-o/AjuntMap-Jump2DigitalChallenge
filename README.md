@@ -131,30 +131,26 @@ Estas tecnologías han sido seleccionadas cuidadosamente para asegurar un rendim
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuciones
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que realices es **altamente apreciada**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Si tienes alguna sugerencia que pueda mejorar esto, por favor haz un fork del repositorio y crea una pull request. También puedes simplemente abrir un problema con la etiqueta "mejora". ¡No olvides darle una estrella al proyecto! ¡Gracias de nuevo!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Haz un fork del proyecto.
+2. Crea tu rama de funcionalidad (`git checkout -b feature/AmazingFeature`).
+3. Realiza tus cambios (`git commit -m 'Añadir alguna AmazingFeature'`).
+4. Haz push a la rama (`git push origin feature/AmazingFeature`).
+5. Abre una Pull Request.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
+<!-- LICENCIA -->
+## Licencia
 
+Distribuido bajo la Licencia MIT. Consulta `LICENSE.txt` para obtener más información.
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<p align="right">(<a href="#readme-top">volver ar
 
 
 
