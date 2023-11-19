@@ -50,6 +50,8 @@
 
 Bienvenido al repositorio oficial de la solución desarrollada para la Hackathon Jump2Digital. Nuestra iniciativa se centra en impulsar y fortalecer el comercio local a través de una herramienta innovadora y útil para los ayuntamientos.
 
+[Uploading jump2Digital hackathon grupo 2.pptx…]()
+
 ## Descripción Detallada
 
 Este proyecto aborda la problemática del comercio local mediante un enfoque estratégico basado en datos. Hemos desarrollado una solución integral que proporciona a los ayuntamientos un mapa interactivo para facilitar la detección de áreas que requieren intervención para apoyar y revitalizar el comercio en sus comunidades.
